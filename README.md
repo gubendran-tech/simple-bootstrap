@@ -1,2 +1,2 @@
 # simple-bootstrap
-This code published into mydailyassist.com
+This code published into http://mydailyassist.com
